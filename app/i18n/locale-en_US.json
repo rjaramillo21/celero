@@ -1,0 +1,71 @@
+{
+  "HEADER_ABOUTUS": "About Us",
+  "HEADER_CONTACUS": "Contact Us",
+  "LANGUAGE": "Select Language", 
+
+  "NAVBAR_FEATURES": "FEATURES", 
+  "NAVBAR_FEATURES_TITLE": "Características Destacadas",
+  "NAVBAR_FEATURES_1_TITLE": "Easy Access", 
+  "NAVBAR_FEATURES_2_TITLE": "24/7 Support", 
+  "NAVBAR_FEATURES_3_TITLE": "99% Uptime", 
+
+  "NAVBAR_PRICING": "PRINCING", 
+  "NAVBAR_CUSTOMERS": "CUSTOMERS", 
+
+  "NAVBAR_ABOUT": "ABOUT", 
+  "NAVBAR_ABOUT_1": "About us", 
+  "NAVBAR_ABOUT_2": "Our Team",
+
+  "NAVBAR_CONTACTUS": "Contact Us",
+  "NAVBAR_LOGIN": "LOGIN", 
+
+  "SLIDE_2_TITLE": "Optical Fiber",
+  "SLIDE_2_TITLE_2": "Details",
+  "SLIDE_3_TITLE_2": "Get Connected!",
+
+  "MAIN_CORE_FEATURES_TITLE_1": "Core",
+  "MAIN_CORE_FEATURES_TITLE_2": "Features",
+  "MAIN_CORE_FEATURES_TITLE_3": "Core features included in all plans",
+  "MAIN_CORE_FEATURES_1_TITLE_1": "Easy", 
+  "MAIN_CORE_FEATURES_1_TITLE_2": "Access", 
+  "MAIN_CORE_FEATURES_2_TITLE_1": "24/7", 
+  "MAIN_CORE_FEATURES_2_TITLE_2": "Support",
+  "MAIN_CORE_FEATURES_3_TITLE_1": "Free",
+  "MAIN_CORE_FEATURES_3_TITLE_2": "Upgrade Asistance",
+  "MAIN_CORE_FEATURES_4_TITLE_1": "99%",
+  "MAIN_CORE_FEATURES_4_TITLE_2": "Uptime",
+
+  "MAIN_PRICING_TITLE_1": "Featured", 
+  "MAIN_PRICING_TITLE_2": "Plans",
+  "MAIN_PRICING_TITLE_3": "Competitive pricing plans to suit your needs",
+
+  "PLANS_PERIOD": "/MO",
+
+  "PRICING_TITLE_1": "COMERCIAL IP TELEPHONY",
+  "PRICING_TITLE_2": "HOSTED PBX",
+  "PRICING_TITLE_3": "SIMETRIC CORPORATIVE INTERNET",
+  "PRICING_TITLE_4": "DEDICATED 1:1 CORPORATIVE INTERNET",
+
+  "ABOUTUS_TITLE": "About Us",
+  "ABOUTUS_COMPANY": "Company",
+  "ABOUTUS_PHILOSOPHY": "Our Philosophy",
+
+  "TEAM_TITLE": "Our Team",
+  "CUSTOMERS_TITLE": "Out Customers",
+
+  "CONTACTUS_TITLE_1": "Contact",
+  "CONTACTUS_TITLE_2": "Us",
+  "CONTACTUS_NAME": "Name",
+  "CONTACTUS_EMAIL": "Email",
+  "CONTACTUS_MESSAGE": "Message",
+  "CONTACTUS_SEND": "Send Message", 
+
+  "BUTTON_SEEMORE": "See More",
+  "BUTTON_LOGIN": "Login",
+  "COPYRIGHT": "Copyright",
+  "BACKTOTOP": "Back to Top",
+
+  "ABOUT_TEXT1": "ESTO ES UNA PRUEBA",
+
+  "FILLER_TEXT": "Integer cursus augue eros rhoncus adipiscing, magna lacus!"
+}

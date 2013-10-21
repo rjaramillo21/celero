@@ -1,0 +1,35 @@
+<div id="content">
+  <div class="container">
+    <div class="row"> 
+      <!--main content-->
+      <div class="col-md-9">
+        <h2 class="title-divider"><span><translate>CONTACTUS_TITLE_1</translate> <span class="de-em" translate>CONTACTUS_TITLE_2</span></span></h2>
+        <div class="row">
+          <div class="col-md-6">
+            <form id="contact-form" action="#" role="form">
+              <div class="form-group">
+                <label class="sr-only" for="contact-name">Name</label>
+                <input type="text" class="form-control" id="contact-name" placeholder="Nombre/Name">
+              </div>
+              <div class="form-group">
+                <label class="sr-only" for="contact-email">Email</label>
+                <input type="email" class="form-control" id="contact-email" placeholder="Email">
+              </div>
+              <div class="form-group">
+                <label class="sr-only" for="contact-message">Message</label>
+                <textarea rows="12" class="form-control" id="contact-message" placeholder="Mensaje/Message"></textarea>
+              </div>
+              <button class="btn btn-primary" translate>CONTACTUS_SEND</button>
+            </form>
+          </div>
+          <div class="col-md-6">
+            <p><abbr title="Phone"><i class="icon-phone"></i></abbr> 111 1111</p>
+            <p><abbr title="Email"><i class="icon-envelope"></i></abbr> info@celero.com</p>
+            <p><abbr title="Address"><i class="icon-home"></i></abbr> Direccion, Address</p>
+            <p><ng-include src="'views/partials/map.html'"></ng-include></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

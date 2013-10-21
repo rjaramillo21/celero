@@ -1,0 +1,59 @@
+<div id="content">
+  <div class="container">
+
+    <!--Pricing Table-->
+    <div class="block">
+      <h2 class="title-divider"><span><translate>MAIN_PRICING_TITLE_1</translate></span> <small translate>MAIN_PRICING_TITLE_3</small></h2>
+
+      <div class="tabbable tabs-left horizontal-tabsrow">    
+        <ul class="nav nav-tabs nav-stacked col-sm-12 col-md-12">
+          <li class="active"> 
+            <a href="#tab1" data-toggle="tab">
+              <translate>PRICING_TITLE_1</translate>
+            </a> 
+          </li>
+          <li> 
+            <a href="#tab2" data-toggle="tab">
+              <translate>PRICING_TITLE_2</translate>
+            </a> 
+          </li>
+          <li> 
+            <a href="#tab3" data-toggle="tab">
+              <translate>PRICING_TITLE_3</translate>
+            </a> 
+          </li>
+          <li> 
+            <a href="#tab4" data-toggle="tab">
+              <translate>PRICING_TITLE_4</translate>
+            </a> 
+          </li>
+
+        </ul>
+      </div>
+
+      <div class="tab-content col-sm-12 col-md-12">
+        <!-- tab1 -->
+        <div class="feature tab-pane active col-sm-12 col-md-12" id="tab1"> 
+          <ng-include src="'views/partials/pricing_1.html'"></ng-include>
+        </div>
+        <!-- tab2 -->
+        <div class="feature tab-pane col-sm-12 col-md-12" id="tab2"> 
+          <ng-include src="'views/partials/pricing_2.html'"></ng-include>
+        </div>
+
+        <!-- tab3 -->
+        <div class="feature tab-pane col-sm-12 col-md-12" id="tab3">
+          <ng-include src="'views/partials/pricing_3.html'"></ng-include>
+        </div>
+
+        <!-- tab4 -->
+        <div class="feature tab-pane col-sm-12 col-md-12" id="tab4">
+          <ng-include src="'views/partials/pricing_4.html'"></ng-include>
+        </div>
+      </div>
+
+
+    </div>
+
+  </div>
+</div>
