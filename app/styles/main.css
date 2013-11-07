@@ -3,3 +3,14 @@
 }
 
 .colour-switcher { display: none; }
+
+.login-form {
+  padding: 10px;
+}
+
+ul#main-menu li.user-menu a:hover, ul#main-menu li.user-menu.open .dropdown-toggle{
+  color: #ffffff;
+  background-color: #9b3218;
+  border-color: #732512;
+  background: none;
+}

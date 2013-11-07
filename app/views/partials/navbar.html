@@ -9,9 +9,9 @@
     <a class="navbar-btn" data-toggle="jpanel-menu" data-target=".navbar-collapse"> <span class="bar"></span> <span class="bar"></span> <span class="bar"></span> <span class="bar"></span> </a> 
     
     <!--user menu-->
-    <div class="btn-group user-menu pull-right">
+    <!-- <div class="btn-group user-menu pull-right">
       <a href="#login-modal" class="btn btn-primary dropdown-toggle login" data-toggle="modal"><translate>NAVBAR_LOGIN</translate></a> 
-    </div>
+    </div> -->
     
     <!-- Collapsed on mobile-->
     <div class="navbar-collapse collapse"> 
@@ -19,28 +19,66 @@
       <!--main navigation-->
       <ul class="nav" id="main-menu">
         <li class="home-link"><a href="#/main"><i class="icon-home"></i><span class="hidden">Home</span></a></li>
-        <li class="dropdown"><a class="dropdown-toggle menu-item" id="features-drop" data-toggle="dropdown"><translate>NAVBAR_FEATURES</translate> +</a> 
+
+        <li><a href="#/about_us" class="menu-item"><translate>NAVBAR_ABOUT</translate></a></li>
+
+        <li class="dropdown"><a class="dropdown-toggle menu-item" id="features-drop" data-toggle="dropdown"><translate>NAVBAR_SERVICES</translate> +</a> 
           <!-- Dropdown Menu - Mega Menu -->
-          <ul class="dropdown-menu mega-menu" role="menu" aria-labelledby="features-drop">
-            <li class="mega-menu-wrapper" role="menuitem"> <span class="menu-title" translate>NAVBAR_FEATURES_TITLE</span>
+          <ul class="dropdown-menu mega-menu" role="menu" aria-labelledby="services-drop">
+            <li class="mega-menu-wrapper" role="menuitem"> <span class="menu-title" translate>NAVBAR_SERVICES_TITLE</span>
               <ul class="row list-unstyled" role="menu">
-                <li class="col-md-4" role="menuitem"> <a href="#/features" class="img-link"><img src="img/features/feature-1.png" alt="Feature 1" /></a> <a href="#/features" tabindex="-1" class="menu-item" translate>NAVBAR_FEATURES_1</a> <span><translate>FILLER_TEXT</translate></span> </li>
-                <li class="col-md-4" role="menuitem"> <a href="#/features" class="img-link"><img src="img/features/feature-2.png" alt="Feature 2" /></a> <a href="#/features" tabindex="-1" class="menu-item" translate>NAVBAR_FEATURES_2</a> <span><translate>FILLER_TEXT</translate></span> </li>
-                <li class="col-md-4" role="menuitem"> <a href="#/features" class="img-link"><img src="img/features/feature-3.png" alt="Feature 2" /></a> <a href="#/features" tabindex="-1" class="menu-item" translate>NAVBAR_FEATURES_3</a> <span><translate>FILLER_TEXT</translate></span> </li>
+                <li class="col-md-4" role="menuitem"> <a href="#/services" class="img-link"><img src="img/features/feature-1.png" alt="Feature 1" /></a> <a href="#/services" tabindex="-1" class="menu-item" translate>NAVBAR_SERVICES_1</a> <span><translate>FILLER_TEXT</translate></span> </li>
+                <li class="col-md-4" role="menuitem"> <a href="#/services" class="img-link"><img src="img/features/feature-2.png" alt="Feature 2" /></a> <a href="#/services" tabindex="-1" class="menu-item" translate>NAVBAR_SERVICES_2</a> <span><translate>FILLER_TEXT</translate></span> </li>
+                <li class="col-md-4" role="menuitem"> <a href="#/services" class="img-link"><img src="img/features/feature-3.png" alt="Feature 2" /></a> <a href="#/services" tabindex="-1" class="menu-item" translate>NAVBAR_SERVICES_3</a> <span><translate>FILLER_TEXT</translate></span> </li>              
+              </ul>
+              <ul class="row list-unstyled" role="menu">
+                <li class="col-md-4" role="menuitem"> <a href="#/services" class="img-link"><img src="img/features/feature-3.png" alt="Feature 2" /></a> <a href="#/services" tabindex="-1" class="menu-item" translate>NAVBAR_SERVICES_4</a> <span><translate>FILLER_TEXT</translate></span> </li>
+                <li class="col-md-4" role="menuitem"> <a href="#/services" class="img-link"><img src="img/features/feature-3.png" alt="Feature 2" /></a> <a href="#/services" tabindex="-1" class="menu-item" translate>NAVBAR_SERVICES_5</a> <span><translate>FILLER_TEXT</translate></span> </li>
               </ul>
             </li>
           </ul>
         </li>
-        <li><a href="#/pricing" class="menu-item"><translate>NAVBAR_PRICING</translate></a></li>
-        <li><a href="#/customers" class="menu-item"><translate>NAVBAR_CUSTOMERS</translate></a></li>
-        <li class="dropdown"> <a class="dropdown-toggle" id="about-drop" data-toggle="dropdown"><translate>NAVBAR_ABOUT</translate> +</a> 
-          <!-- Dropdown Menu -->
-          <ul class="dropdown-menu" role="menu" aria-labelledby="about-drop">
-            <li role="menuitem"><a href="#/about_us" tabindex="-1" class="menu-item" translate>NAVBAR_ABOUT_1</a></li>
-            <li role="menuitem"><a href="#/team" tabindex="-1" class="menu-item" translate>NAVBAR_ABOUT_2</a></li>
+
+        <li class="dropdown"><a class="dropdown-toggle menu-item" id="support-drop" data-toggle="dropdown"><translate>NAVBAR_SUPPORT</translate> +</a>
+          <!-- Dropdown Menu - Mega Menu -->
+          <ul class="dropdown-menu mega-menu" role="menu" aria-labelledby="features-drop">
+            <li class="mega-menu-wrapper" role="menuitem"> <span class="menu-title" translate>NAVBAR_SUPPORT_TITLE</span>
+              <ul class="row list-unstyled" role="menu">
+                <li class="col-md-4" role="menuitem"> <a href="#/features" class="img-link"><img src="img/features/feature-1.png" alt="Feature 1" /></a> <a href="#/features" tabindex="-1" class="menu-item" translate>NAVBAR_SUPPORT_1</a> <span><translate>FILLER_TEXT</translate></span> </li>
+                <li class="col-md-4" role="menuitem"> <a href="#/features" class="img-link"><img src="img/features/feature-2.png" alt="Feature 2" /></a> <a href="#/features" tabindex="-1" class="menu-item" translate>NAVBAR_SUPPORT_2</a> <span><translate>FILLER_TEXT</translate></span> </li>
+                <li class="col-md-4" role="menuitem"> <a href="#/features" class="img-link"><img src="img/features/feature-3.png" alt="Feature 2" /></a> <a href="#/features" tabindex="-1" class="menu-item" translate>NAVBAR_SUPPORT_3</a> <span><translate>FILLER_TEXT</translate></span> </li>              
+              </ul>              
+            </li>
           </ul>
         </li>
+
+        <li><a href="#/faqs" class="menu-item"><translate>NAVBAR_FAQS</translate></a></li>
+
         <li><a href="#/contact_us" class="menu-item" translate>NAVBAR_CONTACTUS</a></li>
+        
+        <li class="dropdown user-menu pull-right">
+          <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+            <translate>NAVBAR_LOGIN</translate>
+          </a>
+          <ul class="dropdown-menu pull-left" role="menu">
+            <li role="menu-item">
+              <div class="login-form">
+                <form action="login.htm" role="form">
+                  <div class="form-group">
+                    <label class="sr-only" for="login-email">Email</label>
+                    <input type="email" id="login-email" class="form-control email" placeholder="Email">
+                  </div>
+                  <div class="form-group">
+                    <label class="sr-only" for="login-password">Password</label>
+                    <input type="password" id="login-password" class="form-control password" placeholder="Password">
+                  </div>
+                  <button type="button" class="btn btn-primary" translate>BUTTON_LOGIN</button>
+                </form>
+              </div>
+            </li>
+          </ul>
+        </li>
+
       </ul>
     </div>
     <!--/.navbar-collapse --> 

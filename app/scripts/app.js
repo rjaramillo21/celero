@@ -8,8 +8,8 @@ app.config(function ($routeProvider) {
       templateUrl: './views/main.html',
       controller: 'MainCtrl'
     })
-    .when('/features',{
-      templateUrl: './views/features.html',
+    .when('/services',{
+      templateUrl: './views/services.html',
       controller: 'MainCtrl'
     })
     .when('/pricing',{
@@ -28,8 +28,8 @@ app.config(function ($routeProvider) {
       templateUrl: './views/team.html',
       controller: 'MainCtrl'
     })
-    .when('/customers',{
-      templateUrl: './views/customers.html',
+    .when('/faqs',{
+      templateUrl: './views/faqs.html',
       controller: 'MainCtrl'
     })
     .otherwise({

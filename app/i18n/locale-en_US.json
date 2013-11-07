@@ -3,20 +3,23 @@
   "HEADER_CONTACUS": "Contact Us",
   "LANGUAGE": "Select Language", 
 
-  "NAVBAR_FEATURES": "FEATURES", 
-  "NAVBAR_FEATURES_TITLE": "Características Destacadas",
-  "NAVBAR_FEATURES_1_TITLE": "Easy Access", 
-  "NAVBAR_FEATURES_2_TITLE": "24/7 Support", 
-  "NAVBAR_FEATURES_3_TITLE": "99% Uptime", 
-
-  "NAVBAR_PRICING": "PRINCING", 
-  "NAVBAR_CUSTOMERS": "CUSTOMERS", 
-
-  "NAVBAR_ABOUT": "ABOUT", 
-  "NAVBAR_ABOUT_1": "About us", 
-  "NAVBAR_ABOUT_2": "Our Team",
-
+  "NAVBAR_ABOUT": "ABOUT US", 
+  "NAVBAR_SERVICES": "SERVICES", 
+  "NAVBAR_SERVICES_TITLE": "Services Description", 
+  "NAVBAR_SERVICES_1": "Comercial Telephony", 
+  "NAVBAR_SERVICES_2": "Telphone Exhange Service",
+  "NAVBAR_SERVICES_2_DESC": "Hosted", 
+  "NAVBAR_SERVICES_3": "Commercial Internet", 
+  "NAVBAR_SERVICES_4": "Corporate Internet",
+  "NAVBAR_SERVICES_5": "Special Services",
+  "NAVBAR_SUPPORT": "Support",
+  "NAVBAR_SUPPORT_TITLE": "Support Description", 
+  "NAVBAR_SUPPORT_1": "Speed Test",
+  "NAVBAR_SUPPORT_2": "See Levels of Service",
+  "NAVBAR_SUPPORT_3": "Report an Incident",
+  "NAVBAR_FAQS": "FAQs",
   "NAVBAR_CONTACTUS": "Contact Us",
+
   "NAVBAR_LOGIN": "LOGIN", 
 
   "SLIDE_2_TITLE": "Optical Fiber",
@@ -26,14 +29,22 @@
   "MAIN_CORE_FEATURES_TITLE_1": "Core",
   "MAIN_CORE_FEATURES_TITLE_2": "Features",
   "MAIN_CORE_FEATURES_TITLE_3": "Core features included in all plans",
-  "MAIN_CORE_FEATURES_1_TITLE_1": "Easy", 
-  "MAIN_CORE_FEATURES_1_TITLE_2": "Access", 
-  "MAIN_CORE_FEATURES_2_TITLE_1": "24/7", 
+  "MAIN_CORE_FEATURES_1_TITLE_1": "Easy",
+  "MAIN_CORE_FEATURES_1_TITLE_2": "Access",
+  "MAIN_CORE_FEATURES_2_TITLE_1": "24/7",
   "MAIN_CORE_FEATURES_2_TITLE_2": "Support",
   "MAIN_CORE_FEATURES_3_TITLE_1": "Free",
   "MAIN_CORE_FEATURES_3_TITLE_2": "Upgrade Asistance",
   "MAIN_CORE_FEATURES_4_TITLE_1": "99%",
   "MAIN_CORE_FEATURES_4_TITLE_2": "Uptime",
+
+  "SERVICES_TITLE": "Services",
+  "SERVICES_1_TITLE": "Comercial Telephony",
+  "SERVICES_2_TITLE": "Telphone Exhange Service",
+  "SERVICES_2_TITLE_DESC": "Hosted",
+  "SERVICES_3_TITLE": "Commercial Internet",
+  "SERVICES_4_TITLE": "Corporate Internet",
+  "SERVICES_5_TITLE": "Special Services",
 
   "MAIN_PRICING_TITLE_1": "Featured", 
   "MAIN_PRICING_TITLE_2": "Plans",
@@ -46,9 +57,13 @@
   "PRICING_TITLE_3": "SIMETRIC CORPORATIVE INTERNET",
   "PRICING_TITLE_4": "DEDICATED 1:1 CORPORATIVE INTERNET",
 
-  "ABOUTUS_TITLE": "About Us",
+  "ABOUTUS_TITLE_1": "About",
+  "ABOUTUS_TITLE_2": "Us",
   "ABOUTUS_COMPANY": "Company",
   "ABOUTUS_PHILOSOPHY": "Our Philosophy",
+
+  "FAQS_TITLE_1": "FAQs",
+  "FAQS_TITLE_2": "",
 
   "TEAM_TITLE": "Our Team",
   "CUSTOMERS_TITLE": "Out Customers",
@@ -64,8 +79,6 @@
   "BUTTON_LOGIN": "Login",
   "COPYRIGHT": "Copyright",
   "BACKTOTOP": "Back to Top",
-
-  "ABOUT_TEXT1": "ESTO ES UNA PRUEBA",
 
   "FILLER_TEXT": "Integer cursus augue eros rhoncus adipiscing, magna lacus!"
 }
