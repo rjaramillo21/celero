@@ -12,6 +12,10 @@ app.config(function ($routeProvider) {
       templateUrl: './views/services.html',
       controller: 'MainCtrl'
     })
+    .when('/support',{
+      templateUrl: './views/support.html',
+      controller: 'MainCtrl'
+    })
     .when('/pricing',{
       templateUrl: './views/pricing.html',
       controller: 'MainCtrl'

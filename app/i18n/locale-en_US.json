@@ -38,6 +38,10 @@
   "MAIN_CORE_FEATURES_4_TITLE_1": "99%",
   "MAIN_CORE_FEATURES_4_TITLE_2": "Uptime",
 
+  "MAIN_PRICING_TITLE_1": "Featured", 
+  "MAIN_PRICING_TITLE_2": "Plans",
+  "MAIN_PRICING_TITLE_3": "Competitive pricing plans to suit your needs",
+
   "SERVICES_TITLE": "Services",
   "SERVICES_1_TITLE": "Comercial Telephony",
   "SERVICES_2_TITLE": "Telphone Exhange Service",
@@ -46,9 +50,10 @@
   "SERVICES_4_TITLE": "Corporate Internet",
   "SERVICES_5_TITLE": "Special Services",
 
-  "MAIN_PRICING_TITLE_1": "Featured", 
-  "MAIN_PRICING_TITLE_2": "Plans",
-  "MAIN_PRICING_TITLE_3": "Competitive pricing plans to suit your needs",
+  "SUPPORT_TITLE": "Support",
+  "SUPPORT_1_TITLE": "Speed Test",
+  "SUPPORT_2_TITLE": "See Levels of Service",
+  "SUPPORT_3_TITLE": "Report an Incident",
 
   "PLANS_PERIOD": "/MO",
 

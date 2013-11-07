@@ -38,6 +38,10 @@
   "MAIN_CORE_FEATURES_4_TITLE_1": "Tiempo de Actividad",
   "MAIN_CORE_FEATURES_4_TITLE_2": "99%",
 
+  "MAIN_PRICING_TITLE_1": "Planes", 
+  "MAIN_PRICING_TITLE_2": "Destacados",
+  "MAIN_PRICING_TITLE_3": "Precios Competitivos en planes para satisfacer sus necesidades",
+
   "SERVICES_TITLE": "Servicios",
   "SERVICES_1_TITLE": "Telefonía Comercial",
   "SERVICES_2_TITLE": "Servicio de Central Telefónica",
@@ -46,9 +50,10 @@
   "SERVICES_4_TITLE": "Internet Corporativo",
   "SERVICES_5_TITLE": "Servicios Especiales",
 
-  "MAIN_PRICING_TITLE_1": "Planes", 
-  "MAIN_PRICING_TITLE_2": "Destacados",
-  "MAIN_PRICING_TITLE_3": "Precios Competitivos en planes para satisfacer sus necesidades",
+  "SUPPORT_TITLE": "Soporte",
+  "SUPPORT_1_TITLE": "Herramienta de velocidad",
+  "SUPPORT_2_TITLE": "Ver Niveles de Servicio",
+  "SUPPORT_3_TITLE": "Reporte un Incidente",
 
   "PLANS_PERIOD": "/MES",
 
